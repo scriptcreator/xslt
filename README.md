@@ -1,2 +1,3 @@
 # xslt
 code project for xsl examples
+ideas by thomas ...
